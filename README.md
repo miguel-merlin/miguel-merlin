@@ -1,18 +1,23 @@
-### About me
-Currently pursuing a major in Computer Science and a minor in Mathematics at Stevens Institute of Technology, where I'm diving deep into the world of algorithms, data structures, and problem-solving.
+### Hello! I'm a 2/4 CS/Math major. 
 
-Last summer, I had the incredible opportunity to join the Amazon.com team as a Software Engineer Intern. I played a pivotal role in developing cutting-edge solutions, learning from some of the best minds in the industry, and contributing to projects that impact millions of users.
+----
 
-I am passionate about the potential of Machine Learning, as I'm currently engaged as a Student Researcher, exploring the frontiers of AI in healthcare and environmental sustainability. My research spans across multiple domains, including:
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
+![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
+![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&
+&nbsp;&nbsp;&nbsp;
 
-Predicting Consciousness in ICU Patients: Leveraging state-of-the-art machine learning algorithms to provide critical insights for medical professionals, aiding in patient care and recovery.
+**Software Development Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
 
-Carbon Gas Behavior Simulation: Exploring the dynamics of carbon gas for effective carbon sequestration solutions, contributing to a greener, more sustainable future.
-
-Detection of Depression through Biomarkers: Utilizing the power of data and bioinformatics to identify and understand minor and major depression, paving the way for more accessible mental health diagnostics.
-
-Additionally, I currently serve as the Vice President of Technology at Blueprint Stevens, where we are dedicated to making a meaningful impact by developing software applications for non-profit organizations. In this role, I lead our talented teams of developers, making critical software architecture decisions to create innovative solutions that help our non-profit partners achieve their missions.
-
-I'm passionate about innovation and the transformative potential of technology. Let's connect and explore opportunities to collaborate, learn, and make a positive impact in the world through the fusion of computer science, mathematics, and cutting-edge research.
-
-Feel free to reach out, and let's explore the exciting possibilities that lie ahead!
+<a href="https://linkedin.com/in/miguel-angel-merlin-arriola">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
