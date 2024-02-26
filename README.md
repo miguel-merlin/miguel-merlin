@@ -2,34 +2,11 @@
 
 Currently pursuing a major in Computer Science and a minor in Mathematics at Stevens Institute of Technology, where I'm diving deep into the world of algorithms, data structures, and problem-solving.
 
-Last summer, I had the incredible opportunity to join the Amazon.com team as a Software Engineer Intern. I played a pivotal role in developing cutting-edge solutions, learning from some of the best minds in the industry, and contributing to projects that impact millions of users.
-
-
-```c++
-class SoftwareEngineer {
-public:
-   SoftwareEngineer() {
-       this->name = "Miguel Merlin";
-       this->role = "Software Engineer";
-       this->language_spoken = {"en_US"};
-   }
-
-   void hello_world() {
-       std::cout << "Thanks for dropping by!" << std::endl;
-   }
-
-private:
-   std::string name;
-   std::string role;
-   std::vector<std::string> language_spoken;
-};
-
-int main() {
-   SoftwareEngineer me;
-   me.hello_world();
-   return 0;
-}
-```
+Last summer I intereted at Amazon in the Alexa AI team. Currently, I serve as Stevens Blueprint Vice-President of Technology, where I am in charge of leading the architectural design of software delivered to non-profits at no cost. Also, I am participating in multiple research projects that span diverse fields of study such as:
+- Deep Learning in Particle Physics
+- Machine Learning for Task Planning generation
+- NeRFs
+- Computational Neuroscience
 
 ## 🔧 Technologies & Tools
 **Programming Languages:**
