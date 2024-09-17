@@ -3,9 +3,8 @@
 Currently pursuing a major in Computer Science and a minor in Mathematics at Stevens Institute of Technology, where I'm diving deep into the world of algorithms, data structures, and problem-solving.
 
 Last summer, I interned at Amazon in the Alexa AI team. Currently, I serve as Stevens Blueprint Vice-President of Technology, where I am in charge of leading the architectural design of software delivered to non-profits at no cost. Also, I am participating in multiple research projects that span diverse fields of study, such as:
-- Deep Learning in Particle Physics
+- Deep Learning
 - Machine Learning for Task Planning generation
-- NeRFs
 - Computational Neuroscience
 
 ## 🔧 Technologies & Tools
