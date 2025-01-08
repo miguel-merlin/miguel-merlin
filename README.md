@@ -1,6 +1,6 @@
 ### Hello 👋! 
 
-I love working on challenging and impactful problems. Currently working on physics informed neural networks, large language models and software at scale. I maintain a blog at https://miguelmerlin.co
+I love working on challenging and impactful problems. Currently working on physics informed neural networks, large language models and software at scale. I maintain a blog at https://miguelmerlin.com
 
 ## 🔧 Technologies & Tools
 **Programming Languages:**
