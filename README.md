@@ -1,11 +1,6 @@
 ### Hello 👋! 
 
-Currently pursuing a major in Computer Science and a minor in Mathematics at Stevens Institute of Technology, where I'm diving deep into the world of algorithms, data structures, and problem-solving.
-
-Last summer, I interned at Amazon in the Alexa AI team. Currently, I serve as Stevens Blueprint Vice-President of Technology, where I am in charge of leading the architectural design of software delivered to non-profits at no cost. Also, I am participating in multiple research projects that span diverse fields of study, such as:
-- Deep Learning
-- Machine Learning for Task Planning generation
-- Computational Neuroscience
+I love working on challenging and impactful problems. Currently working on physics informed neural networks, large language models and software at scale. I maintain a blog at https://miguelmerlin.co
 
 ## 🔧 Technologies & Tools
 **Programming Languages:**
@@ -13,10 +8,12 @@ Last summer, I interned at Amazon in the Alexa AI team. Currently, I serve as St
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 
 **Machine Learning:**
 
@@ -28,6 +25,7 @@ Last summer, I interned at Amazon in the Alexa AI team. Currently, I serve as St
 
 **Databases:**
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -35,11 +33,10 @@ Last summer, I interned at Amazon in the Alexa AI team. Currently, I serve as St
 **Frameworks:**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Cloud Services:**
