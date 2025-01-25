@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=miguel-merlin&color=blue)
+
 ### Hello 👋! 
 
 I love working on challenging and impactful problems. Currently working on physics informed neural networks, large language models, deep learning theory and software at scale. I maintain a blog at https://miguelmerlin.com
